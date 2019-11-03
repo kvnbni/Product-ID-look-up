@@ -20,6 +20,12 @@ Prerequisites:
 Running the tests:
 I've included a giphy of how the app works.
 
+Bult with:
+Go, Redis.
+
+Acknowledgements:
+godoc.org and Slack API's documentation.
+
 
 
 
