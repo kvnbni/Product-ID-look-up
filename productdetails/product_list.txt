@@ -1,0 +1,1 @@
+{"prod":[{"productID":1004,"country":"US","create_time":"2013-07-15T00:10:16","description":"We make it, we break it, we love it!","product_name":"travelbag.amazon.com"},{"productID":1009,"country":"US","create_time":"2017-02-06T10:01:27","description":"never thirsty whiskey","product_name":"suntory.amazon.com"}],"status":"success"}
